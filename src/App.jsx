@@ -1,11 +1,11 @@
 import './App.css'
 import { createBrowserRouter, Route, createRoutesFromElements, RouterProvider } from 'react-router-dom'
 // import NavBar from './components/NavBar'
-import Home from './components/Home'
-import Project from './components/Project'
-import About from './components/About'
-import AppLayout from './components/AppLayout'
-import Contact from './components/Contact'
+import Home from './pages/Home'
+import Project from './pages/Project'
+import About from './pages/About'
+import AppLayout from './pages/AppLayout'
+import Contact from './pages/Contact'
 
 function App() {
   
